@@ -1,7 +1,7 @@
 # Mover
 Program to move and copy files on your PC
 
-Done in Python, Custom tkinter
+Done in Python & Custom tkinter
 
 Explanation of the program's features:
 - Source Directory: Choose the source directory from where you would like to copy or move files
